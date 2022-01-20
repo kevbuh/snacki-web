@@ -2,9 +2,9 @@
   text-align: center;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.logoTitle {
+  font-size: 8rem;
+  color: #e4007c;
 }
 
 @media (prefers-reduced-motion: no-preference) {
@@ -25,7 +25,7 @@
 }
 
 .App-link {
-  color: #61dafb;
+  color: #e4007c;
 }
 
 @keyframes App-logo-spin {

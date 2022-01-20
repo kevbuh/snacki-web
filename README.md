@@ -1,31 +1,35 @@
-# Create React App
+# snacki
 
-This directory is a brief example of a [Create React App](https://github.com/facebook/create-react-app) site that can be deployed to Vercel with zero configuration.
+[![](https://github.com/kevbuh/snacki/blob/main/v0.0.4_logo.png)](https://kevinbuhler.com/)
+<br />
 
-## Deploy Your Own
+<img align="left" alt="React Native" width="26px" src="https://github.com/kevbuh/snacki/blob/main/react-native-logo-2.jpeg" />
+<img align="left" alt="Redux" width="26px" src="https://github.com/kevbuh/snacki/blob/main/redux-logo.png" />
+<img align="left" alt="Django" width="26px" src="https://github.com/kevbuh/snacki/blob/main/django-logo.png" />
+<img align="left" alt="Postgres" width="26px" src="https://github.com/kevbuh/snacki/blob/main/postgres-logo.png" />
+<br />
 
-Deploy your own Create React App project with Vercel.
+# About
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/vercel/vercel/tree/main/examples/create-react-app&template=create-react-app)
+Snacki is a mobile app that delivers your favorite stadium food right to your seat, so you don't miss any of the action. It features on demand food, an account system to save your food history, and user-configurable features like teams, foods, and more.
 
-_Live Example: https://create-react-template.vercel.app/_
+# Features
 
-## Available Scripts
+- highly intuitive with beautiful design
+- focus on the game, have the food served to you
+- add your favorite teams
+- know the status of your food
+- account system
+- and much more
 
-In the project directory, you can run:
+# Bug report or Feature request
 
-### `npm start`
+If you encounter a bug or have a feature request, [send me a message on Twitter](https://twitter.com/kevinbuhler_), [create an issue](https://twitter.com/kevinbuhler_), [create a discussion thread](https://twitter.com/kevinbuhler_), or [join the Discord server](https://twitter.com/kevinbuhler_).
 
-Runs the app in the development mode. Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+# Code of Conduct
 
-The page will reload when you make changes. You may also see any lint errors in the console.
+Before contributing to this repository, please read the [code of conduct.](https://github.com/kevbuh/snacki/blob/main/CODE_OF_CONDUCT.md)
 
-### `npm test`
+# Support
 
-Launches the test runner in the interactive watch mode. See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.
-
-It correctly bundles React in production mode and optimizes the build for the best performance. The build is minified and the filenames include the hashes.
+If you wish to support further development and feel extra awesome, you can do so [here](https://twitter.com/kevinbuhler_).
